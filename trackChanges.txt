@@ -1,0 +1,23 @@
+commit f404a2dae780cce599bd77744e8909cf2e7c5340
+Author: reshmid <reshmid0@gmail.com>
+Date:   Wed Jul 24 08:51:00 2019 +0530
+
+    Added gitignore to ignore files from staging
+
+commit 8eb8a916442e445d3d9d607e7c2fb50b2b428d64
+Author: reshmid <reshmid0@gmail.com>
+Date:   Wed Jul 24 08:26:24 2019 +0530
+
+    Added two more files
+
+commit 5bea90a670014377295bce4178ed4683b75b5a44
+Author: reshmid <reshmid0@gmail.com>
+Date:   Wed Jul 24 08:21:57 2019 +0530
+
+    added two files
+
+commit e211d14dae224f67a6f0d8b81279c756466e5740
+Author: reshmid <reshmid0@gmail.com>
+Date:   Wed Jul 24 08:11:41 2019 +0530
+
+    added readme.txt
